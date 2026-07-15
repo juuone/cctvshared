@@ -1,0 +1,1 @@
+<resources><style name="Theme.HomeCam" parent="Theme.Material3.DayNight.NoActionBar"><item name="colorPrimary">@color/primary</item><item name="colorOnPrimary">@color/on_primary</item><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">?attr/isLightTheme</item></style></resources>
